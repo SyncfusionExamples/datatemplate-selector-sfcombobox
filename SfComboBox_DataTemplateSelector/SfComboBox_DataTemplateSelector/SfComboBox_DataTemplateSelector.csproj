@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Syncfusion.Xamarin.SfComboBox" Version="19.1.0.57" />
-    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1821" />
+    <PackageReference Include="Syncfusion.Xamarin.SfComboBox" Version="*" />
+    <PackageReference Include="Xamarin.Forms" Version="*" />
   </ItemGroup>
 </Project>
